@@ -1,0 +1,22 @@
+{
+  "name": "is-firdous-npm-package",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FirdousM/is-firdous-npm-package.git"
+  },
+  "keywords": [
+    "fir"
+  ],
+  "author": "firdous",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FirdousM/is-firdous-npm-package/issues"
+  },
+  "homepage": "https://github.com/FirdousM/is-firdous-npm-package#readme"
+}
