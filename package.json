@@ -1,6 +1,6 @@
 {
-  "name": "is-firdous-npm-package",
-  "version": "1.0.0",
+  "name": "@firdous28/is-firdous-npm-package",
+  "version": "2.0.0",
   "description": "test package",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/FirdousM/is-firdous-npm-package.git"
   },
   "keywords": [
-    "fir"
+    "firdous28"
   ],
   "author": "firdous",
   "license": "ISC",
